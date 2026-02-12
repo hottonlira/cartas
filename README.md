@@ -1,2 +1,2 @@
-# cartas
-cidades
+# cartas.c
+cidades.c
